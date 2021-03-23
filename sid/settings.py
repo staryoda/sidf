@@ -26,7 +26,7 @@ SECRET_KEY = '7j5z3bx=udlv2flxp_$mj)y=&pss89u!0w7pxgw)hm)g=_3bl3'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['sid','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['github.com/staryoda/sidf','sid','localhost','127.0.0.1']
 
 # Application definition
 
